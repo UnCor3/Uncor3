@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Visit my portfolio website </h3> [uncore.me](https://www.uncore.me/)
+<h3 align="left">Visit my portfolio website [uncore](https://www.uncore.me/)</h3> 
 
 ###
 
