@@ -6,8 +6,6 @@
 
 ###
 
-<h3 align="left">Visit my portfolio website <a href="https://www.uncore.me/" target="_blank">uncore.me</a></h3>
-
 
 ###
 
